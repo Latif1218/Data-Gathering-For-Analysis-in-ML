@@ -40,3 +40,4 @@
 ## 🤝 Contributing
 
 #### Feel free to fork, star, or contribute to this repository. Raise an issue if you have any suggestions!
+### ⭐ Star this repository if you find it useful! 🚀

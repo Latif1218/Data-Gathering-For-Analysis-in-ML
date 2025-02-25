@@ -30,7 +30,7 @@
 
 #### Clone the repository and install dependencies:
 
-- git clone https://github.com/Latif1218/data-gathering-ml.git
+- git clone [https://github.com/Latif1218/data-gathering-ml.git](https://github.com/Latif1218/Data-Gathering-For-Analysis-in-ML.git)
 - cd data-gathering-ml
 - pip install -r requirements.txt
 

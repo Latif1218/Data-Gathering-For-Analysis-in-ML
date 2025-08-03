@@ -1,4 +1,4 @@
-# Data Gathering for Data Analysis in Machine Learning 📊
+# Data Gathering for Data Analysis in Machine Learning 📊 
 
 #### This repository contains various datasets and Jupyter notebooks focused on data gathering and preprocessing for machine learning. The collected data spans multiple formats, including CSV, JSON, Excel, and TSV, to help in real-world data analysis and model training.
 
@@ -40,4 +40,4 @@
 ## 🤝 Contributing
 
 #### Feel free to fork, star, or contribute to this repository. Raise an issue if you have any suggestions!
-### ⭐ Star this repository if you find it useful! 🚀
+### ⭐ Star this repository if you find it useful! 🚀 for you
